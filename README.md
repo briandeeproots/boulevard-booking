@@ -2,7 +2,7 @@
 
 A WordPress plugin that allows you to easily integrate Boulevard's booking functionality into any element on your WordPress site by assigning specific CSS IDs.
 
-![Boulevard Booking Widget](https://www.joinblvd.com/wp-content/uploads/2023/01/boulevard-logo.png)
+![Boulevard Booking Widget](https://images.ctfassets.net/tvdolrc8zc82/13WrWAhUvDdpqGgwOIpzoG/ea777437019f90077fba311a8b6d21cc/wordmark-black.png?w=1920&q=75&fm=webp)
 
 ## Description
 
